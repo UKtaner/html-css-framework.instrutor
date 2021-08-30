@@ -1,0 +1,79 @@
+h1{
+
+    color: darkblue;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-style: 20px;
+    text-align: center;
+    background-color: cyan;
+    
+    }
+    
+    h2,h4{
+        color: orange;
+        text-align: center;
+        background-color: paleturquoise;
+        font-size: 40px;
+    }
+    .my-custom-style{
+        font-style: italic;
+        color: orangered;
+        font-size: 50px;
+        background-color: aquamarine;
+        text-align: center;
+    }
+    
+    #my-unique-id{
+    font-size: 40px;
+    text-align: center;
+    color: darkmagenta;
+    background-color: darkturquoise;
+    }
+    #sun-flower{
+    width: solid;
+    text-align: center;
+    margin-left: 100px;
+    }
+    a{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold; 
+    color: orange;
+    }
+    #google-link{
+             border:5px solid;
+              border-color:blueviolet;
+              padding: 5%;
+              width: 30%;
+              margin-left:30px ;
+              background-color: blanchedalmond;
+     
+    
+    
+    }
+    #tech-link{
+        border:5px solid;
+              border-color: blueviolet;
+              padding: 1%;
+              width: 10%;
+              margin-left:30px ;
+              background-color: blanchedalmond;
+    }
+    table,th,td{
+        border-style: solid;
+        font-size: 50px;
+        border-color: black;
+        border-spacing: 10px;
+      
+
+    }
+    td{
+        border-color: blueviolet;
+    }
+    #frame{
+        width: 100%;
+        height: 500px;
+    }
+    .label{
+        font-size: 50px;
+    }
